@@ -10,7 +10,6 @@
 
 - 📖 [About the Project](#about_project)
   - [Screenshot](#screenshot)
-  - 🚀 [Live Demo](#live_demo)
   - 🛠 [Built With](#built_with)
 - 💻 [Installation](#installation)
 - 👥[Author](#author)
@@ -32,17 +31,11 @@ It is a simple page that display the word "Hello Microverse!".
 The screenshot below is a desktop version of the design.
 <div align="center">
 <br/>
-<img src="./app_screenshot" alt="app screenshot" width="140"  height="auto" />
+<img src="./app_screenshot" alt="app screenshot" width="1000"  height="697" />
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-## 🚀 Live Demo <a name="live_demo"></a>
-
-You can see a live demonstration [here]()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 🛠 Built With <a name="built_with"></a>
@@ -84,7 +77,7 @@ Want to get in touch with me? Here are my social links:
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/lily4178993/Hello-Microverse/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
