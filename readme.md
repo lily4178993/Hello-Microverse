@@ -67,7 +67,7 @@ To get a local copy up and running the code by yourself, please, follow the prov
 ## 👥 Author <a name="author"></a>
 
 Want to get in touch with me? Here are my social links:
-> [GitHub](https://www.frontendmentor.io/profile/lily4178993)
+> [GitHub](https://github.com/lily4178993/)
 > [Twitter](https://twitter.com/nelly_telli)
 > [LinkedIn](https://www.linkedin.com/in/nelly-t-330414266/)
 
@@ -99,6 +99,6 @@ I would like to thank the [Microverse](https://github.com/microverseinc) team.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
