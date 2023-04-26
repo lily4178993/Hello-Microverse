@@ -31,7 +31,7 @@ It is a simple page that display the word "Hello Microverse!".
 The screenshot below is a desktop version of the design.
 <div align="center">
 <br/>
-<img src="./app_screenshot" alt="app screenshot" width="1000"  height="697" />
+<img src="app_screenshot.jpeg" alt="app screenshot" width="1000"  height="697" />
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
