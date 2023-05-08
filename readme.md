@@ -69,7 +69,7 @@ Hello-Microverse is build with:
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Unfortunatly, there is not live demonstration avalaible right now.
+You can follow this [link](https://lily4178993.github.io/Hello-Microverse/) to have an online demonstration of this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
